@@ -1,0 +1,33 @@
+{
+  "name": "nextstep-ai",
+  "version": "1.0.0",
+  "description": "An AI-powered career guidance platform aligned with SDG 4: Quality Education.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "AI",
+    "career",
+    "guidance",
+    "education",
+    "SDG4"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^2.2.19",
+    "supabase-js": "^1.28.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "latest"
+  }
+}
