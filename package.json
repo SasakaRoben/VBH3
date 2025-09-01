@@ -23,7 +23,7 @@
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "^2.2.19",
-    "supabase-js": "^1.28.0"
+    "supabase-js": "^2.0.0"
   },
   "devDependencies": {
     "typescript": "^4.5.4",
